@@ -1,0 +1,13 @@
+C:\Users\wjorr\OneDrive\Desktop\Inventory-Management-Systems\Inventory-Management-Systems\bin\Debug\netcoreapp3.1\Inventory-Management-Systems.exe
+C:\Users\wjorr\OneDrive\Desktop\Inventory-Management-Systems\Inventory-Management-Systems\bin\Debug\netcoreapp3.1\Inventory-Management-Systems.deps.json
+C:\Users\wjorr\OneDrive\Desktop\Inventory-Management-Systems\Inventory-Management-Systems\bin\Debug\netcoreapp3.1\Inventory-Management-Systems.runtimeconfig.json
+C:\Users\wjorr\OneDrive\Desktop\Inventory-Management-Systems\Inventory-Management-Systems\bin\Debug\netcoreapp3.1\Inventory-Management-Systems.runtimeconfig.dev.json
+C:\Users\wjorr\OneDrive\Desktop\Inventory-Management-Systems\Inventory-Management-Systems\bin\Debug\netcoreapp3.1\Inventory-Management-Systems.dll
+C:\Users\wjorr\OneDrive\Desktop\Inventory-Management-Systems\Inventory-Management-Systems\bin\Debug\netcoreapp3.1\Inventory-Management-Systems.pdb
+C:\Users\wjorr\OneDrive\Desktop\Inventory-Management-Systems\Inventory-Management-Systems\obj\Debug\netcoreapp3.1\Inventory-Management-Systems.csprojAssemblyReference.cache
+C:\Users\wjorr\OneDrive\Desktop\Inventory-Management-Systems\Inventory-Management-Systems\obj\Debug\netcoreapp3.1\Inventory-Management-Systems.AssemblyInfoInputs.cache
+C:\Users\wjorr\OneDrive\Desktop\Inventory-Management-Systems\Inventory-Management-Systems\obj\Debug\netcoreapp3.1\Inventory-Management-Systems.AssemblyInfo.cs
+C:\Users\wjorr\OneDrive\Desktop\Inventory-Management-Systems\Inventory-Management-Systems\obj\Debug\netcoreapp3.1\Inventory-Management-Systems.csproj.CoreCompileInputs.cache
+C:\Users\wjorr\OneDrive\Desktop\Inventory-Management-Systems\Inventory-Management-Systems\obj\Debug\netcoreapp3.1\Inventory-Management-Systems.dll
+C:\Users\wjorr\OneDrive\Desktop\Inventory-Management-Systems\Inventory-Management-Systems\obj\Debug\netcoreapp3.1\Inventory-Management-Systems.pdb
+C:\Users\wjorr\OneDrive\Desktop\Inventory-Management-Systems\Inventory-Management-Systems\obj\Debug\netcoreapp3.1\Inventory-Management-Systems.genruntimeconfig.cache
