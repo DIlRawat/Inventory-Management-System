@@ -1,0 +1,11 @@
+C:\Users\wjorr\OneDrive\Desktop\Inventory-Management-Systems\Inventory-Management-SystemsForm\bin\Debug\Inventory-Management-SystemsForm.exe.config
+C:\Users\wjorr\OneDrive\Desktop\Inventory-Management-Systems\Inventory-Management-SystemsForm\bin\Debug\Inventory-Management-SystemsForm.exe
+C:\Users\wjorr\OneDrive\Desktop\Inventory-Management-Systems\Inventory-Management-SystemsForm\bin\Debug\Inventory-Management-SystemsForm.pdb
+C:\Users\wjorr\OneDrive\Desktop\Inventory-Management-Systems\Inventory-Management-SystemsForm\obj\Debug\Inventory-Management-SystemsForm.csprojAssemblyReference.cache
+C:\Users\wjorr\OneDrive\Desktop\Inventory-Management-Systems\Inventory-Management-SystemsForm\obj\Debug\Inventory_Management_SystemsForm.HomePage.resources
+C:\Users\wjorr\OneDrive\Desktop\Inventory-Management-Systems\Inventory-Management-SystemsForm\obj\Debug\Inventory_Management_SystemsForm.InventoryPage.resources
+C:\Users\wjorr\OneDrive\Desktop\Inventory-Management-Systems\Inventory-Management-SystemsForm\obj\Debug\Inventory_Management_SystemsForm.Properties.Resources.resources
+C:\Users\wjorr\OneDrive\Desktop\Inventory-Management-Systems\Inventory-Management-SystemsForm\obj\Debug\Inventory-Management-SystemsForm.csproj.GenerateResource.cache
+C:\Users\wjorr\OneDrive\Desktop\Inventory-Management-Systems\Inventory-Management-SystemsForm\obj\Debug\Inventory-Management-SystemsForm.csproj.CoreCompileInputs.cache
+C:\Users\wjorr\OneDrive\Desktop\Inventory-Management-Systems\Inventory-Management-SystemsForm\obj\Debug\Inventory-Management-SystemsForm.exe
+C:\Users\wjorr\OneDrive\Desktop\Inventory-Management-Systems\Inventory-Management-SystemsForm\obj\Debug\Inventory-Management-SystemsForm.pdb
